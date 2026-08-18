@@ -15,6 +15,9 @@ Access Policy Table
 <img width="623" height="168" alt="image" src="https://github.com/user-attachments/assets/f7ba19d1-9e27-4f3e-81bb-58117bcdc8d2" />
 
 ## 3 Network Topology
+
+<img width="1362" height="571" alt="image" src="https://github.com/user-attachments/assets/39dd586e-58e9-44a3-ab4c-94880a73c8bf" />
+
 IP Addressing Table 
 <img width="605" height="238" alt="image" src="https://github.com/user-attachments/assets/e27f0de0-5a3d-4b8f-a779-8ca7ba869b0d" />
 
